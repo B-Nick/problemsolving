@@ -1,0 +1,14 @@
+Input (stdin)
+5
+131 264 30
+972 79 506
+504 858 147
+797 612 939
+799 678 227
+
+Expected Output
+YES
+YES
+NO
+NO
+YES
